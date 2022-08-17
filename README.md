@@ -1,4 +1,4 @@
-my fork? just made the image detection better and translated some explanations
+my fork? just made the image detection better and translated some explanations (as of today Aug 17, 2022 this has been merged into mrmendoza1171's brave-ad-clicker) commits behind mean I don't intent to make use of a GUI for this type of program
 
 # BTW don't use brave, use firefox instead
 
